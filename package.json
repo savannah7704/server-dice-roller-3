@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+<<<<<<< HEAD
 },
+=======
+  },
+>>>>>>> b5deef907218715bbbd4eb675205cffb4c657f60
   "repository": {
     "type": "git",
     "url": "git+https://github.com/savannah7704/server-dice-roller-3.git"
